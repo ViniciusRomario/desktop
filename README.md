@@ -16,4 +16,4 @@ https://github.com/ViniciusRomario/desktop/blob/main/calculator_py%20(1).ipynb
 Quando realizar a leitura e apresentar o arquivo, de um duplo clique
 
 
-Agora você tem uma calculadora simples funcionando no Google Colab. Você pode expandir essa calculadora para incluir mais funcionalidades conforme necessário!
+Agora você o codigo de uma calculadora simples funcionando no Google Colab. Você pode expandir essa calculadora para incluir mais funcionalidades conforme necessário!
